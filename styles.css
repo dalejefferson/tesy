@@ -1,0 +1,32 @@
+
+body{
+    background-image: linear-gradient(#FAF0D7,#8CC0DE);
+}
+.left {
+   background-color: #FAF0D7;
+  }
+.right {
+  background-color: #ffd9c0;
+}
+.center {
+  background-color: #8cc0de;
+}
+
+.size {
+  font-family: Arial;
+  background-color: #8cc0de;
+}
+#one {
+  font-weight: bolder;
+}
+#two {
+  margin-left: 25%;
+  max-width: 50%;
+  max-height: 50%;
+  border-radius: 50%;
+  box-shadow: 5px 10px 20px 10px lightblue;
+}
+.container {
+  background-color: #faf0d7;
+  border-radius: 15%;
+}
